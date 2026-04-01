@@ -1,0 +1,16 @@
+# Visual Studio
+.vs/
+v17/
+*.suo
+*.user
+
+# Build folders
+bin/
+obj/
+
+# Copilot
+copilot-indices/
+
+# OS files
+.DS_Store
+Thumbs.db
